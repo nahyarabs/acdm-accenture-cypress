@@ -3,14 +3,14 @@
 ## Descrição  
 Este repositório contém o caso de teste automatizado para validar o fluxo completo de preenchimento das informações necessárias para submeter uma cotação de seguro veicular na aplicação **"Vehicle Assurance"** da Tricentis.
 
-## Fluxo de Teste  
+## Fluxo de teste  
 
 1. Acessar o site da aplicação: [https://sampleapp.tricentis.com/101/](https://sampleapp.tricentis.com/101/)
 2. Preencher as informações do veículo (automóvel, caminhão, motocicleta ou camper)
 3. Validar os campos de dados do usuário
 4. Submeter a cotação e verificar os resultados
 
-## Tecnologias Utilizadas
+## Tecnologias utilizadas
 
 - **NodeJS**: ambiente de execução para JavaScript no backend
 - **Cypress**: ferramenta para automação de testes end-to-end
@@ -18,7 +18,7 @@ Este repositório contém o caso de teste automatizado para validar o fluxo comp
 - **Faker**: biblioteca para geração de dados falsos em testes
 - **BDD**: prática de desenvolvimento orientado a comportamentos, usando especificações em linguagem natural
 
-## Pré-Requisitos
+## Pré-requisitos
 
 - Instalar o **Node.js** e **npm** (caso ainda não tenha).  
 - Instalar as dependências do projeto:
@@ -26,7 +26,7 @@ Este repositório contém o caso de teste automatizado para validar o fluxo comp
 npm install
 ```
 
-## Estrutura de Diretórios
+## Estrutura de diretórios
 
 ```plaintext
 features/           → Contém os arquivos de especificação Gherkin  
@@ -34,7 +34,7 @@ support/            → Arquivos de configuração e comandos customizados do Cy
 step_definitions/   → Definições de passos do Cucumber para os testes
 ```
 
-## Execução dos Testes
+## Execução dos testes
 
 Para rodar os testes, use o comando:
 
