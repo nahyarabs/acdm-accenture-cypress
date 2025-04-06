@@ -50,9 +50,16 @@ Este projeto é uma demonstração de como usar o **Cypress** e o **Cucumber** p
 ----
 
 ## Tela de início
-
+![image](https://github.com/user-attachments/assets/49fe4394-635e-4efb-92ac-a2dbcd084750)
 
 ## Tela de Automobile Insurance
+![image](https://github.com/user-attachments/assets/8bbc7bff-7ea3-4d96-b301-ae331f007786)
 
 ## Tela de sucesso
+![image](https://github.com/user-attachments/assets/ef7f8965-7a04-4204-be9a-bbb748d6238f)
+
+----
+
+- [Nahyara Batista - LinkedIn](https://www.linkedin.com/in/nahyarabs)
+
 
