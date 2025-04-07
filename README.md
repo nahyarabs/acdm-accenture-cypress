@@ -5,7 +5,7 @@ Este repositório contém o caso de teste automatizado para validar o fluxo comp
 
 ## Fluxo de teste  
 
-1. Acessar o site da aplicação: [https://sampleapp.tricentis.com/101/](https://sampleapp.tricentis.com/101/)
+1. Acessar o site da aplicação: [https://sampleapp.tricentis.com](https://sampleapp.tricentis.com/)
 2. Preencher as informações do veículo (automóvel, caminhão, motocicleta ou camper)
 3. Validar os campos de dados do usuário
 4. Submeter a cotação e verificar os resultados
